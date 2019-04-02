@@ -1,2 +1,2 @@
-var hh = today.getHours();
-console.log("hour is", dd)
+var firstday = new Date(yyyy,mm-1,1); console.log(firstday);
+var lastday = new Date(yyyy,mm,0);console.log(lastday);
